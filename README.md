@@ -8,6 +8,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manoj-M02/LeetCode_Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0268-missing-number](https://github.com/Manoj-M02/LeetCode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Manoj-M02/LeetCode_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/Manoj-M02/LeetCode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Manoj-M02/LeetCode_Solutions/tree/main/0268-missing-number/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Manoj-M02/LeetCode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
