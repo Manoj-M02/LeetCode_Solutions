@@ -10,6 +10,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Manoj-M02/LeetCode_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Manoj-M02/LeetCode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Manoj-M02/LeetCode_Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/Manoj-M02/LeetCode_Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,4 +56,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Manoj-M02/LeetCode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3903-smallest-stable-index-i](https://github.com/Manoj-M02/LeetCode_Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 <!---LeetCode Topics End-->
