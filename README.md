@@ -60,4 +60,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Manoj-M02/LeetCode_Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/Manoj-M02/LeetCode_Solutions/tree/main/1603-design-parking-system/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/Manoj-M02/LeetCode_Solutions/tree/main/1603-design-parking-system/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/Manoj-M02/LeetCode_Solutions/tree/main/1603-design-parking-system/) | Easy |
 <!---LeetCode Topics End-->
